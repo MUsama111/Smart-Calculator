@@ -17,7 +17,7 @@ if (answer.operator === "Addition") {
 else if (answer.operator === "Subtraction") {
     console.log(answer.FirstNumber - answer.SecondNumber);
 }
-else if (answer.operator === "Multiplcation") {
+else if (answer.operator === "Multiplication") {
     console.log(answer.FirstNumber * answer.SecondNumber);
 }
 else if (answer.operator === "Division") {
